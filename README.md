@@ -1,11 +1,8 @@
 # Parse The FIX
 
-Parse The FIX is a browser-based FIX message parser and dashboard built in TypeScript for inspecting, filtering, and comparing FIX messages. 
+[Parse The FIX](https://parsethefix.com)
+ is a browser-based FIX message parser and dashboard built in TypeScript for inspecting, filtering, and comparing FIX messages. 
 It keeps everything in-session (no messages are stored or sent anywhere) and gives you multiple widgets to analyze messages as a split-view table and timeline.
-
-## Access the App
-
-Open `https://parsethefix.com` in your browser.
 
 ## App Layout
 
