@@ -4,6 +4,8 @@
  is a browser-based FIX message parser and dashboard built in TypeScript for inspecting, filtering, and comparing FIX messages. 
 It keeps everything in-session (no messages are stored or sent anywhere) and gives you multiple widgets to analyze messages as a split-view table and timeline.
 
+<img width="1896" height="893" alt="image" src="https://github.com/user-attachments/assets/e9d274dc-05b3-4ad0-b7fe-eb68037f9a24" />
+
 ## App Layout
 
 - **Header**: Theme toggle.
